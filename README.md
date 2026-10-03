@@ -2,7 +2,7 @@
 
 **PaperForge** is an AI-powered research workspace for students and academics — helping you collect, organize, analyze, and compare research papers in one place.
 
-🚀 **Live Demo:** [https://paper-forge-neon.vercel.app/dashboard](https://paper-forge-neon.vercel.app/dashboard)
+🚀 **Live Demo:** [https://paper-forge-neon.vercel.app](https://paper-forge-neon.vercel.app)
 
 ---
 
